@@ -30,7 +30,7 @@ twitter_username: david271
 github_username:  jeff_machinist
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
